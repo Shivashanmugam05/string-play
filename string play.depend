@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561268721 source:c:\users\shiva shanmugam\desktop\project\string play\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
